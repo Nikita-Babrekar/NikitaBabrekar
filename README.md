@@ -1,7 +1,11 @@
+<p align="center">
+  <img src="github_poster.png" alt="Nikita Banner" width="100%" />
+</p>
+
 # 👋 Hi, I'm Nikita Babrekar!
 
 🎓 Second-year Computer Science Engineering student at DIEMS.  
-💻 Passionate about UI/UX Design, Web Development, and Hackathons.  
+💻 Passionate about UI/UX Design, Logo Design, Package design, Web Development, and Hackathons.  
 🚀 Currently working on innovative apps like Blood Donation App.  
 🎨 Campus Ambassador at GeeksforGeeks.
 
@@ -20,4 +24,4 @@
 
 
 ## 📫 Let's Connect!
-[LinkedIn](www.linkedin.com/in/nikita-babrekar) • [Behance](https://www.behance.net/nikitababrekar) • [Email](nikitababrekar752@gmail.com)
+[Portfolio](https://connie-5bf6epu2t4.figweb.site/) •[LinkedIn](www.linkedin.com/in/nikita-babrekar) • [Behance](https://www.behance.net/nikitababrekar) • [Email](nikitababrekar752@gmail.com)
