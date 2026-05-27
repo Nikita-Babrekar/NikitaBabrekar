@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Nikita Babrekar!
 
-🎓 Second-year Computer Science Engineering student at DIEMS.  
-💻 Passionate about UI/UX Design, Logo Design, Package design, Web Development, and Hackathons.  
-🚀 Currently working on innovative apps like Blood Donation App.  
-🎨 Campus Ambassador at GeeksforGeeks.
+Second-year Computer Science Engineering student at DIEMS.  
+Passionate about UI/UX Design, Logo Design, Package design, Web Development, and Hackathons. 
+Aspiring Data Analyst
+
 
 ## 🌟 Skills
 - Programming: Java, C, Python, SQL
